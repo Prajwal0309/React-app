@@ -1,0 +1,10 @@
+.App {
+  font-family: "Shadows Into Light", cursive;
+  text-align: center;
+}
+body {
+  background-image: url("https://img.freepik.com/free-vector/deaf-people-talking-with-sign-language-flat-illustration_1284-56086.jpg?w=2000");
+}
+input {
+  padding: 1rem 5rem;
+}
